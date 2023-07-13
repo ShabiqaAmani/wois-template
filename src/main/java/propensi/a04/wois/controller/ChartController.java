@@ -16,6 +16,7 @@ import java.util.List;
 import java.util.Map;
 
 @Controller
+//controller
 public class ChartController {
     @Qualifier("reservasiServiceImpl")
     @Autowired
